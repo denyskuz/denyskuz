@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **a lot of different stuff.**
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤝 I’m looking for help with **finding more time in a single day**
-- 📫 How to reach me **Denis.kuz96@gmail.com**
 
 <h3 align="left">My Stack:</h3>
 <p align="left" style="
